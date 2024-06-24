@@ -1,28 +1,27 @@
-# Topic Title
-![](url for an image about your topic)
+# This is My Wiki for Lab 1
+![where Im from](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20200110_Hall_of_Supreme_Harmony_courtyard-1.jpg/2560px-20200110_Hall_of_Supreme_Harmony_courtyard-1.jpg)
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+This is my example intro for LAb1, My name is Houran Cheng, but I go by Albert too. Im from Beijing, Im a junior here at UW and I'm excited to learn more Web based GIS skills. [this is beijing](https://en.wikipedia.org/wiki/Beijing),  
 
 
-## Section 1
-One or several paragraphs.
+## Where I've studies
+Beijing 101<br />
+[Cape Henry Collegiate, VA](https://www.capehenrycollegiate.org/athletics)<br />
+Umiveristy of Washington, WA
 
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
+## This summer
+my thoughts on this summer
+### HOT
+This summer is so hot, I'm Half DongBeinese, so I really can;t stand the heat.
+### Class
+I'm taking two courses this a term, then I'm interning at NIO back in Beijing.
 
-## Section 3
-One or several paragraphs for subsection 3.
+#### This is just to show sub headers
+##### This is to show different font styles
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
 
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+## thing I love about Seattle
+1. Very Bike friendly)(im a road cyclist)
+2. Loads of hiking trails
+3. great food option
