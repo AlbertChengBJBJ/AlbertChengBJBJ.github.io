@@ -14,7 +14,7 @@ my thoughts on this summer
 ### HOT
 This summer is so hot, I'm Half DongBeinese, so I really can;t stand the heat.
 ### Class
-I'm taking two courses this a term, then I'm interning at NIO back in Beijing.
+I'm taking two courses this a term, then I'm intering at NIO back in Beijing.
 
 #### This is just to show sub headers
 ##### This is to show different font styles
